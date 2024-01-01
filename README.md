@@ -1,43 +1,47 @@
 <!-- Centered header with name -->
 <h1 align="center">Hi 👋, I'm SHADIK HASAN</h1>
 
-<!-- Centered description -->
-<h3 align="center">A passionate software developer from Bangladesh</h3>
+<!-- Centered description with emoji -->
+<h3 align="center">A passionate software developer from Bangladesh 🚀</h3>
 
-<!-- Profile views counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sk-shadik&label=Profile%20views&color=0e75b6&style=flat" alt="sk-shadik" />
+<!-- Profile views counter with a colorful badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sk-shadik&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Twitter follow badge -->
-<p align="left"> 
-  <a href="https://twitter.com/@shadikhasan64" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@shadikhasan64?logo=twitter&style=for-the-badge" alt="@shadikhasan64" />
+<!-- Social media follow badge -->
+<p align="center">
+  <a href="https://twitter.com/@shadikhasan64" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/@shadikhasan64?logo=twitter&style=for-the-badge&color=1da1f2" alt="Twitter Follow" />
   </a>
 </p>
 
-<!-- Introductory information -->
-- 👨‍💻 All of my projects are available at [https://shadikhasan.me/](https://shadikhasan.me/)
-- 📫 How to reach me **shadikhasan7564@gmail.com**
-- 📄 Know about my experiences [https://shadikhasan.me/DOCUMENT/SHADIK%20HASAN.pdf](https://shadikhasan.me/DOCUMENT/SHADIK%20HASAN.pdf)
+<!-- Introductory information with a call-to-action button -->
+<p align="center">
+  <a href="https://shadikhasan.me/" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      Check out my projects 🚀
+    </button>
+  </a>
+</p>
 
-<!-- Social media links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Connect with me section with vibrant social icons -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/@shadikhasan64" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shadikhasan64" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shadikhasan64" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/shadik-hasan-2ba56b1ab" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadik-hasan-2ba56b1ab" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadik-hasan-2ba56b1ab" height="40" width="40" />
   </a>
   <a href="https://fb.com/md.shadikhasansk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shadikhasansk" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.shadikhasansk" height="40" width="40" />
   </a>
 </p>
 
-<!-- Languages and Tools section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<!-- Languages and Tools section with stylish icons -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <!-- PHP and Laravel -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -129,10 +133,11 @@
 </p>
 
 <!-- GitHub stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-shadik&theme=chartreuse-dark)](https://github.com/sk-shadik)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-shadik&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+</p>
 
 <!-- GitHub activity streak -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-shadik&show_icons=true&locale=en" alt="sk-shadik" /></p>
-
-<!-- GitHub contribution streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-shadik&" alt="sk-shadik" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sk-shadik&" alt="GitHub Activity Streak" />
+</p>
