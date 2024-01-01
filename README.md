@@ -16,15 +16,6 @@
   </a>
 </p>-->
 
-<!-- Introductory information with a call-to-action button -->
-<p align="left">
-  <a href="https://shadikhasan.me/" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-      Check out my projects 🚀
-    </button>
-  </a>
-</p>
-
 <!-- Introductory information -->
 - 👨‍💻 All of my projects are available at [https://shadikhasan.me/](https://shadikhasan.me/)
 - 📫 How to reach me **shadikhasan7564@gmail.com**
