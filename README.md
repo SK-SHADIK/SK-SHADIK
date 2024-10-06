@@ -138,4 +138,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sk-shadik&theme=chartreuse-dark" alt="sk-shadik" /></p>
 
 <!-- GitHub contribution Graph -->
-[![Shadik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-shadik&bg_color=000&color=fff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/sk-shadik/github-readme-activity-graph)
+[![Shadik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-shadik&bg_color=2E3440&color=88C0D0&line=81A1C1&point=5E81AC&area=true&hide_border=true)](https://github.com/sk-shadik/github-readme-activity-graph)
+
