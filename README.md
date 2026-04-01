@@ -18,38 +18,16 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 👨‍💻 All of my projects are available at [shadikhasan.me](https://shadikhasan.me/)
-- 🌱 Currently building **[Jotno.ai](https://jotno.ai)** — an AI-powered healthcare platform
 - 💬 Ask me about **Laravel, PHP, React, REST APIs, and Database Design**
 - 📫 Reach me at **shadikhasan7564@gmail.com**
-- 📄 View my resume [here](https://shadikhasan.me/DOCUMENT/SHADIK%20HASAN.pdf)
 - ⚡ Fun fact: I love turning complex problems into clean, elegant solutions
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sk-shadik&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="sk-shadik trophies" />
-</p>
-
----
-
-### 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/sk-shadik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk-shadik&repo=appaon-service&theme=chartreuse-dark&hide_border=true" alt="Appaon Service" />
-  </a>
-</p>
-
-> 💡 *Explore more at [shadikhasan.me](https://shadikhasan.me/)*
-
----
-
-### 🌐 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/shadik-hasan-2ba56b1ab" target="_blank">
@@ -68,7 +46,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 #### Backend & Frameworks
 <p align="left">
@@ -157,7 +135,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-shadik&theme=chartreuse-dark&hide_border=true&layout=compact" alt="Top Languages" />
@@ -173,7 +151,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 [![Shadik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-shadik&bg_color=2E3440&color=88C0D0&line=81A1C1&point=5E81AC&area=true&hide_border=true)](https://github.com/sk-shadik/github-readme-activity-graph)
 
